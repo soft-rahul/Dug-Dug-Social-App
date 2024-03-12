@@ -11,7 +11,7 @@
 
 <header>
 	<div
-		class="mx-auto flex max-w-screen-lg items-center border-b-2 border-dotted border-gray-300 px-2 py-4"
+		class="mx-auto flex items-center border-b-2 border-dotted border-gray-300 px-8 py-4"
 	>
 		<section class="mr-auto">
 			<div class="flex cursor-pointer items-center gap-2">
