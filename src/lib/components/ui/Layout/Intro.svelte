@@ -49,6 +49,5 @@
 			</section>
 		</section>
 
-		<section></section>
 	</div>
 </main>
