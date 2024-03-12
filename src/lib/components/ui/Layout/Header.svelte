@@ -11,10 +11,10 @@
 
 <header>
 	<div
-		class="mx-auto flex max-w-screen-lg items-center border-b-2 border-dashed border-gray-300 px-2 py-4"
+		class="mx-auto flex max-w-screen-lg items-center border-b-2 border-dotted border-gray-300 px-2 py-4"
 	>
 		<section class="mr-auto">
-			<div class="flex items-center gap-2">
+			<div class="flex cursor-pointer items-center gap-2">
 				<img src="/logo.png" alt="" class="h-6 w-6" />
 				<h1 class="text-lg font-bold">Duggup</h1>
 			</div>
@@ -37,7 +37,7 @@
 
 			<div class="mx-14">
 				<div
-					class="flex cursor-pointer items-center justify-between gap-2 rounded-md border-2 border-gray-600 px-4 py-2 hover:border-gray-200"
+					class="border-1 btn flex cursor-pointer items-center justify-between gap-2 rounded-md px-4 py-2"
 				>
 					<SquarePlus class="h-5 w-5" />
 					<span> Post </span>
@@ -45,7 +45,7 @@
 			</div>
 
 			<div class="flex items-center gap-2">
-				<div class="rounded-full border-2 border-gray-600">
+				<div class="rounded-full border-2 border-gray-200">
 					<Avatar.Root>
 						<Avatar.Image src="/picture.jpeg" alt="Krishna Kiran" />
 						<Avatar.Fallback>Krishan Kiran</Avatar.Fallback>
@@ -61,3 +61,15 @@
 		</section>
 	</div>
 </header>
+
+<style>
+	.btn {
+		border: 1px solid #000;
+		box-shadow: 0px 4px #000;
+		transition: all 200ms linear;
+	}
+	.btn:hover,
+	.btn:active {
+		box-shadow: 0px 2px #000;
+	}
+</style>
