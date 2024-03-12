@@ -1,38 +1,21 @@
-# create-svelte
+# Duggup Social App
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+## Tech Stack
+####  SvelteKit + Shadcn + Tailwind CSS + Js
+####  Hoisted on Vercel 
+https://dug-dug-social-7oagvk5n8-rahul-keshris-projects.vercel.app/
 
-## Creating a project
+<br/>
+<br/>
+<br/>
+<br/>
 
-If you're seeing this, you've probably already done this step. Congrats!
+![alt text](<Screenshot 2024-03-12 222902.png>)
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+![alt text](<Screenshot (807).png>)
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+![alt text](<Screenshot (808).png>)
 
-## Developing
+![alt text](<Screenshot (809).png>)
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+![alt text](<Screenshot (810).png>)
