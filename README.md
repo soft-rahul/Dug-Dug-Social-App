@@ -3,7 +3,8 @@
 ## Tech Stack
 ####  SvelteKit + Shadcn + Tailwind CSS + Js
 ####  Hoisted on Vercel 
-https://dug-dug-social-7oagvk5n8-rahul-keshris-projects.vercel.app/
+
+https://dug-dug-social-app.vercel.app/
 
 <br/>
 <br/>
