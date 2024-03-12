@@ -57,9 +57,6 @@ const config = {
 			fontFamily: {
 				sans: [...fontFamily.sans]
 			},
-			boxShadow: {
-				'Special': '2px 2px gray'
-			}
 		}
 	},
 };
