@@ -13,7 +13,7 @@
 	};
 </script>
 
-<main class="mx-auto my-6 max-w-screen-lg px-10 py-2">
+<main class="mx-auto my-4 max-w-screen-md py-2">
 	<div class="my-4 flex items-center gap-4">
 		<section class="mr-4 flex flex-col items-center gap-2">
 			<div>
@@ -47,7 +47,7 @@
 				<div>
 					<div
 						on:click={clickHandler}
-						class={`btn flex cursor-pointer items-center justify-between gap-2 rounded-md px-4 py-2 ${isActive ? 'color bg-blue-600 text-white shadow-none' : ''}`}
+						class={`btn flex cursor-pointer items-center justify-between gap-2 rounded-md px-4 py-2 select-none ${isActive ? 'color bg-blue-600 text-white shadow-none' : ''}`}
 					>
 						{value}
 					</div>
