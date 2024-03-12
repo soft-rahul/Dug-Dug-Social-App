@@ -3,7 +3,7 @@
 	export let image: string;
 </script>
 
-<section class="flex w-2/4 flex-col rounded-lg border shadow-sm">
+<section class="flex w-2/4 flex-col rounded-lg border shadow-sm cursor-pointer">
 	<div class="h-40 w-full">
 		<img
 			src={image}

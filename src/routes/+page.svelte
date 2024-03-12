@@ -6,7 +6,7 @@
 	import Point from '$lib/components/ui/Layer/Point.svelte';
 </script>
 
-<main class="mx-auto my-2 px-10 py-2 box">
+<main class="mx-auto my-2 px-10 pt-2 pb-6 box">
 	<section class="grid-container">
 		<div class="self-center justify-self-end flex gap-3 items-center mr-7">
 			<Point/>
